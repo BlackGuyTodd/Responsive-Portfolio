@@ -215,4 +215,55 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-  
+
+   
+
+  @media screen and (max-width: 980px) {
+    body {
+      opacity: 0.5;
+    }
+    
+    #main-container {
+      background: black;
+    }
+    /* The wrapper's width will be 600px */
+    #masthead {
+      padding: 10px 16px;
+      background: #555;
+      color: #f1f1f1;
+    }
+    
+  }
+  @media screen and (max-width: 768px) {
+    body {
+      opacity: 0.5;
+    }
+    
+    #main-container {
+      background: black;
+    }
+    /* The wrapper's width will be 600px */
+    #masthead {
+      padding: 10px 16px;
+      background: #555;
+      color: #f1f1f1;
+    }
+    
+  }
+
+  @media screen and (max-width: 640px) {
+    body {
+      opacity: 0.5;
+    }
+    
+    #main-container {
+      background: black;
+    }
+    /* The wrapper's width will be 600px */
+    #masthead {
+      padding: 10px 16px;
+      background: #555;
+      color: #f1f1f1;
+    }
+    
+  }
